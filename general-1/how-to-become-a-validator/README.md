@@ -51,5 +51,5 @@ You can delegate you BRI token to a validator of your choosing. Not everybody th
 
 ### How to become a validator?
 
-* Minimum of 500 tokens staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 500 BRI tokens needs to be locked in a contract to be eligible to become a validator.
+* Minimum of 70,000 tokens staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 70,000 BRI tokens needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.

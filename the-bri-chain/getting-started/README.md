@@ -9,7 +9,7 @@ description: Becoming a BRI validator in a few simple steps
 In order to be a BRI validator, you first must see that you meet the pre-requirements:
 
 * You know what it means to be a BRI validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
-* You have at least 500 BRI tokens or you will have an aggregated delegation of at least 500 BRI tokens \(you can purchase BRI token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
+* You have at least 70,000 BRI tokens or you will have an aggregated delegation of at least 70,000 BRI tokens \(you can purchase BRI token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
 * You should have some ETH for gas, 1 ETH should last you for a few months.
 * You have an always-on hardware that meets the pre-requisites - [Running a validator node](run-your-own-validator.md#pre-requisites)
 
