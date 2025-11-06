@@ -19,6 +19,6 @@ The BRI documentation is separated into three major parts:
 **3. Tutorials.** This part contains various consumer-focused tutorials. It can be accessed here. \*\*\*\*
 
 {% hint style="info" %}
-Join our [Telegram group](https://t.me/coin_validator)\
+Join our [Telegram group]\
 Or say hello at: support@briscan.io
 {% endhint %}
