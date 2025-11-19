@@ -4,11 +4,11 @@
 
 **Step 1:**
 
-Navigate to[ www.briswap.com ](https://briswap.com/). The interface will look like as shown below
+Navigate to[ www.briswap.com ](https://swap.briscan.io/). The interface will look like as shown below
 
 ![](../.gitbook/assets/0%20%286%29.png)
 
-Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet to Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to. \(In this case Ethereum\)
+Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet to Briswap. Once you connect you should be able to see your wallet address and see the network you are connected to. \(In this case Ethereum\)
 
 ![](../.gitbook/assets/1%20%289%29.png)
 
@@ -26,7 +26,7 @@ Once the transaction is confirmed on chain, the **“Transfer”** can be clicke
 
 Make sure that your wallet is running on BRI RPC.
 
-**Step 1:** Navigate to [www.briswap.com ](https://briswap.com/). The interface will look like as shown below
+**Step 1:** Navigate to [www.briswap.com ](https://swap.briscan.io/). The interface will look like as shown below
 
 ![](../.gitbook/assets/4%20%289%29.png)
 
