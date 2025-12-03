@@ -10,8 +10,6 @@ BlockReward contract is calculates the reward amount that validators and delegat
 
 With Voting contract validators are vote on various changes on these 3 base level contracts. All those contracts are proxied with implementation that handles the logic. The implementations can be changed only by the Voting process.
 
-
-
 ## [Consensus - 0xF3Df99C209bd25E20fF59d2040C870e6A1286CF2](https://briscan.io/address/0xF3Df99C209bd25E20fF59d2040C870e6A1286CF2)
 
 This contract is responsible for handling the network DPos consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
@@ -23,7 +21,7 @@ Stake amount for a validator is the sum of staked and delegated amount to it's a
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
 {% hint style="info" %}
-minimum stake amount = 10,000 BRI token
+minimum stake amount = 70,000 BRI token
 
 cycle duration blocks = 57600 (approximately 2 days)
 {% endhint %}
